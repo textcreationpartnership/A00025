@@ -32,7 +32,9 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-The Royall line of kings, queenes, and princes, from the vniting of the two royall houses, Yorke and
+
+1. The Royall Line of Kings, Queenes, and Princes, from the vniting of the two Royall Houſes, Yorke, and Lancaſter.
+
 **Types of content**
 
   * There are 24 **verse** lines!
